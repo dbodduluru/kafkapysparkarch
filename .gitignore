@@ -1,0 +1,12 @@
+# Ignore the mnt folder
+mnt/
+
+# Ignore the .venv folder
+.venv/
+
+*.pyc
+__pycache__/
+.DS_Store
+.env
+.idea/
+.vscode/
